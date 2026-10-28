@@ -1,5 +1,11 @@
 # EstLat · Delfi TV kalender
 
+- Telli iPhone’is: https://desulg.github.io/estlat-delfi-calendar/
+- iCal: https://desulg.github.io/estlat-delfi-calendar/calendar.ics
+- Repo: https://github.com/desulg/estlat-delfi-calendar
+
+Avalik fail kontrollitud 28.10.2026 kell 23.07 (Europe/Tallinn): 7 sündmust, korrektne UTC aeg ja igal mängul VALARM -PT15M. Esimene GitHub Actionsi testimine ja Pagesi avaldamine õnnestus.
+
 Automaatselt uuenev iPhone’i tellitav kalender Eesti klubide EstLat League mängudele, mille ülekanne on Delfi TV avalikus kavas. Igal mängul on 15 minuti meeldetuletus.
 
 ## Andmeallikad ja valik
