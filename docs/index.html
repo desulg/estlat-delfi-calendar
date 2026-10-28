@@ -1,1 +1,56 @@
-<!doctype html><html lang="et"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>EstLat · Delfi TV kalender</title><style>body{font:18px/1.6 system-ui;max-width:650px;margin:60px auto;padding:20px;color:#193426}a{color:#126645}.button{display:inline-block;padding:12px 22px;background:#126645;color:white;border-radius:9px;text-decoration:none}</style><h1>EstLat · Delfi TV</h1><p>Eesti klubide Eesti–Läti liiga mängud, mille ülekanne on Delfi TV kavas. Meeldetuletus 15 minutit enne mängu.</p><a class="button" id="subscribe" href="calendar.ics">Telli kalender iPhone’is</a><p>Kalender uueneb serveris iga 6 tunni järel. Telefon määrab ise, millal muudatused alla laadib. Tellimisel luba kalendri teavitused.</p><p><a href="calendar.ics">iCal-fail</a> · <a href="status.json">Viimase uuenduse andmed</a></p><p>Delfi kava hõlmab piiratud ajavahemikku: uued mängud lisanduvad ülekannete avaldamisel. Mängu lõppaeg on hinnanguline.</p><script>document.getElementById('subscribe').href=new URL('calendar.ics',location.href).href.replace(/^https?:/,'webcal:')</script></html>
+<!doctype html>
+<html lang="et">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EstLat · Delfi TV kalender</title>
+<style>
+body{font:18px/1.6 system-ui;max-width:700px;margin:40px auto;padding:20px;color:#193426;background:#f7faf8}h1{line-height:1.2}h2{font-size:1.3em;margin-top:0}a{color:#126645}section{background:white;border:1px solid #d9e5dd;border-radius:14px;padding:24px;margin:22px 0}.button,button{display:inline-block;padding:12px 20px;background:#126645;color:white;border:0;border-radius:9px;text-decoration:none;font:inherit;cursor:pointer}input{box-sizing:border-box;width:100%;padding:12px;font:14px system-ui;border:1px solid #9db4a5;border-radius:7px;margin:8px 0 12px}li{margin:10px 0}.note{font-size:.9em;color:#456251}#copy-status{min-height:1.6em;margin:6px 0}
+</style>
+</head>
+<body>
+<h1>EstLat · Delfi TV</h1>
+<p>Eesti klubide Eesti–Läti liiga mängud, mille ülekanne on Delfi TV kavas. Üks automaatselt uuenev kalender iPhone’ile ja Androidile.</p>
+<section aria-labelledby="iphone-title">
+<h2 id="iphone-title">iPhone</h2>
+<a class="button" id="subscribe" href="webcal://desulg.github.io/estlat-delfi-calendar/calendar.ics">Telli kalender iPhone’is</a>
+<p>Avamisel kinnita tellimus ja luba kalendri märguanded. Mängudel on meeldetuletus 15 minutit enne algust.</p>
+</section>
+<section aria-labelledby="android-title">
+<h2 id="android-title">Android · Google Calendar</h2>
+<p>Lisa kalender üks kord arvutis Google Calendari kaudu. Seejärel kuvatakse mängud Androidi telefonis sama Google’i kontoga.</p>
+<label for="calendar-url">Kalendri tellimise aadress</label>
+<input id="calendar-url" type="url" readonly value="https://desulg.github.io/estlat-delfi-calendar/calendar.ics" aria-describedby="copy-status">
+<button type="button" id="copy-url">Kopeeri kalendri aadress</button>
+<p id="copy-status" role="status" aria-live="polite"></p>
+<ol>
+<li>Ava arvutis <a href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noopener">Google Calendaris „From URL”</a> ja logi sisse sama kontoga, mida kasutad Androidis. Vajadusel vali vasakult <strong>Other calendars → + → From URL</strong>.</li>
+<li>Kleebi ülalolev aadress ja vajuta <strong>Add calendar</strong>.</li>
+<li>Ava telefonis Google Calendar ning lülita menüüs kalender <strong>EstLat · Delfi TV</strong> nähtavaks. Kui mänge ei ilmu, kontrolli rakenduse seadetes selle kalendri sünkroonimist.</li>
+<li>Kontrolli selle kalendri märguandeid ja määra võimalusel meeldetuletuseks <strong>15 minutit enne</strong>. Google Calendari kaudu tellides kontrolli märguannet eraldi: failis olev häire ei pruugi rakendusse üle kanduda.</li>
+</ol>
+<p class="note">Google Calendari telefonirakendus ei võimalda kalendrit URL-ist lisada. Kasuta tellimiseks arvuti veebibrauserit. Vali tellimine URL-i kaudu, et tulevased mängud ja muudatused samuti kohale jõuaksid.</p>
+<p class="note"><a href="https://support.google.com/calendar/answer/37100?hl=en">Google’i ametlik tellimisjuhend</a></p>
+</section>
+<p>Meie server kontrollib kava iga 6 tunni järel. Google ja Apple määravad ise, millal tellitud kalendri muudatused alla laadivad; uued mängud ei pruugi kohe ilmuda.</p>
+<p>Delfi kava hõlmab piiratud ajavahemikku: uued mängud lisanduvad ülekannete avaldamisel. Mängu lõppaeg on hinnanguline.</p>
+<p><a href="calendar.ics">iCal-fail</a> · <a href="status.json">Viimase uuenduse andmed</a> · <a href="https://github.com/desulg/estlat-delfi-calendar">Projekt GitHubis</a></p>
+<script>
+const calendarUrl = new URL('calendar.ics', location.href).href;
+document.getElementById('calendar-url').value = calendarUrl;
+document.getElementById('subscribe').href = calendarUrl.replace(/^https?:/, 'webcal:');
+document.getElementById('copy-url').addEventListener('click', async () => {
+  const field = document.getElementById('calendar-url');
+  const status = document.getElementById('copy-status');
+  try {
+    await navigator.clipboard.writeText(field.value);
+    status.textContent = 'Aadress kopeeritud. Kleebi see Google Calendari.';
+  } catch {
+    field.focus();
+    field.select();
+    status.textContent = 'Aadress on valitud. Kopeeri see oma seadme kopeerimiskäsuga.';
+  }
+});
+</script>
+</body>
+</html>

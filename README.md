@@ -54,6 +54,20 @@ Ava avalehe tellimisnupp iPhone’is ja kinnita kalendri tellimine. Alternatiivi
 
 Server uueneb iga 6 tunni järel, kuid iPhone otsustab oma värskendussageduse. VALARM on failis kontrollitud; päris iPhone’i tellimist ja teavituse ilmumist tuleb kasutaja telefonis kontrollida.
 
+## Android / Google Calendar
+
+Sama .ics voog sobib Androidi kasutajatele. Avalehel on Androidi juhis, kopeerimisnupp ja Google Calendari URL-ist lisamise lehe link.
+
+1. Ava **arvutis** Google Calendar sama Google’i kontoga, mida kasutad Androidis.
+2. Vali **Other calendars → + → From URL**.
+3. Kleebi `https://desulg.github.io/estlat-delfi-calendar/calendar.ics` ja vali **Add calendar**.
+4. Lülita kalender telefoni Google Calendari rakenduses nähtavaks ja vajadusel selle seadetes sünkroonimine sisse.
+5. Kontrolli kalendri märguandeid ning määra võimalusel 15 minuti meeldetuletus. Faili VALARM-i ülekandumist Google Calendari ega Androidi teavitust pole päris seadmes kontrollitud; automaatset häire ülekandumist ei lubata.
+
+Google Calendari telefonirakenduses ei saa URL-ist tellimust lisada. Ühekordne faili import ei ole tellimus. Google värskendab tellitud välist kalendrit enda sagedusega.
+
+Ametlik juhend: https://support.google.com/calendar/answer/37100?hl=en
+
 ## Kontrollid
 
 Neli testirühma kontrollivad pärisandmete vasteid ja eurosarja välistamist, iCal-i uuesti parsimist/CRLF-i/75-baidist reamurdmist/UTF-8 teksti, UTC ja suve-/talveaega, häiret, stabiilseid UID-sid, muutuste SEQUENCE-i, tühistamist ja allikavigu. Päris HTML/API näidised on `tests/fixtures/` all; need on 28.10.2026 kontrollnäidised, mitte jooksva kalendri allikas.
