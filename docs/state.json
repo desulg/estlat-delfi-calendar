@@ -1,0 +1,86 @@
+{
+  "2027212004": {
+    "gid": "2027212004",
+    "home": "TalTech/ALEXELA",
+    "away": "Latvijas Universitāte",
+    "start": "2026-10-28T16:30:00+00:00",
+    "arena": "Tallinn, TalTech Spordihoone",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "13a7ad6472b2cebf1b8b62f882a4c74b7c57336ba2ef3e87e7cbe3291525971b"
+  },
+  "2027212103": {
+    "gid": "2027212103",
+    "home": "Keila KK",
+    "away": "TalTech/ALEXELA",
+    "start": "2026-10-31T16:00:00+00:00",
+    "arena": "Keila Tervisekeskus",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "b38b69f6e6971da2bb8d173326c5cb63d94ce29895739537bd86243f887afe04"
+  },
+  "2027212117": {
+    "gid": "2027212117",
+    "home": "Bigbank/Kalev",
+    "away": "Rīgas Zeļļi",
+    "start": "2026-10-31T16:00:00+00:00",
+    "arena": "Nord Spordihoone",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "66b797e109b595d2169a9884466618b1caf6af1a452d88ceece6738229abbb6d"
+  },
+  "2027212046": {
+    "gid": "2027212046",
+    "home": "BC Pärnu",
+    "away": "Valmiera Glass VIA",
+    "start": "2026-11-01T12:00:00+00:00",
+    "arena": "Pärnu Spordihall",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "4a3a6b87b1bc4faed00212e64b323ae10038af347476c095d34820b5d81c11a3"
+  },
+  "2027212047": {
+    "gid": "2027212047",
+    "home": "BC Pärnu",
+    "away": "BK Ventspils",
+    "start": "2026-11-07T15:00:00+00:00",
+    "arena": "Pärnu Spordihall",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "70c72c44b13b7249e1c950e295982b7ee466811f2184a8b539dede36336c7040"
+  },
+  "2027212018": {
+    "gid": "2027212018",
+    "home": "Tartu Ülikool Maks & Moorits",
+    "away": "Valmiera Glass VIA",
+    "start": "2026-11-07T16:00:00+00:00",
+    "arena": "Tartu, TÜ sph (Kullami peaväljak)",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "012fd1f66b3d638b14aeef77c64554b838f86ca86ebb0692b1ea2f00cb7b6e9f"
+  },
+  "2027212061": {
+    "gid": "2027212061",
+    "home": "Viimsi",
+    "away": "VEF Rīga",
+    "start": "2026-11-08T15:00:00+00:00",
+    "arena": "Forus Spordikeskus Viimsi",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "c43a292d84ca18d5a3209468338ce64ddd2426abdb27288d4a024558c53b5b0e"
+  }
+}
