@@ -1,16 +1,4 @@
 {
-  "2027212004": {
-    "gid": "2027212004",
-    "home": "TalTech/ALEXELA",
-    "away": "Latvijas Universitāte",
-    "start": "2026-10-28T16:30:00+00:00",
-    "arena": "Tallinn, TalTech Spordihoone",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
-    "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-10-28T21:04:46.876737+00:00",
-    "fingerprint": "13a7ad6472b2cebf1b8b62f882a4c74b7c57336ba2ef3e87e7cbe3291525971b"
-  },
   "2027212103": {
     "gid": "2027212103",
     "home": "Keila KK",
@@ -82,5 +70,17 @@
     "sequence": 0,
     "updated": "2026-10-28T21:04:46.876737+00:00",
     "fingerprint": "c43a292d84ca18d5a3209468338ce64ddd2426abdb27288d4a024558c53b5b0e"
+  },
+  "2027212004": {
+    "gid": "2027212004",
+    "home": "TalTech/ALEXELA",
+    "away": "Latvijas Universitāte",
+    "start": "2026-10-28T16:30:00+00:00",
+    "arena": "Tallinn, TalTech Spordihoone",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "13a7ad6472b2cebf1b8b62f882a4c74b7c57336ba2ef3e87e7cbe3291525971b"
   }
 }

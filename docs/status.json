@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-28T21:20:12.394518+00:00",
-  "fixtures": 161,
+  "updated": "2026-10-29T05:56:41.563051+00:00",
+  "fixtures": 160,
   "basketball_streams": 13,
-  "matched": 7,
+  "matched": 6,
   "events": 7,
   "source_league": "https://www.estlatbl.com/en/game-center",
   "source_delfi": "https://portal-feeds.api.delfi.ee/portal-feeds-proxy/v1/stream-schedule?channel=tv.delfi.ee"
