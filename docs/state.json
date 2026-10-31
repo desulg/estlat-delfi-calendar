@@ -5,11 +5,11 @@
     "away": "TalTech/ALEXELA",
     "start": "2026-10-31T16:00:00+00:00",
     "arena": "Keila Tervisekeskus",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120621516/tana-delfi-tv-s-keila-kk-jahib-kodusaalis-taltechalexela-skalpi#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-10-28T21:04:46.876737+00:00",
-    "fingerprint": "b38b69f6e6971da2bb8d173326c5cb63d94ce29895739537bd86243f887afe04"
+    "sequence": 1,
+    "updated": "2026-10-31T12:43:59.412521+00:00",
+    "fingerprint": "c47005d1a13e683797359ff156cd599484fdd4b96b4cd485ec6c3816daaa6b80"
   },
   "2027212117": {
     "gid": "2027212117",
@@ -17,11 +17,11 @@
     "away": "Rīgas Zeļļi",
     "start": "2026-10-31T16:00:00+00:00",
     "arena": "Nord Spordihoone",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120621515/tana-delfi-tv-s-bigbankkalev-kohtub-ponevusmangus-riia-zelliga#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-10-28T21:04:46.876737+00:00",
-    "fingerprint": "66b797e109b595d2169a9884466618b1caf6af1a452d88ceece6738229abbb6d"
+    "sequence": 1,
+    "updated": "2026-10-31T12:43:59.412521+00:00",
+    "fingerprint": "9c0b96b912e63edc64acaba712745a7442d6c307b2d5ea052221bb3581c1f562"
   },
   "2027212046": {
     "gid": "2027212046",

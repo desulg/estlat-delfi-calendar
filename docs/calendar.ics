@@ -30,16 +30,18 @@ BEGIN:VEVENT
 SUMMARY:Keila KK – TalTech/ALEXELA · Delfi TV
 DTSTART:20261031T160000Z
 DTEND:20261031T180000Z
-DTSTAMP:20261028T210446Z
+DTSTAMP:20261031T124359Z
 UID:estlat-2027212103@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2103\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261028T210446Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120621516/tana-delfi-tv-s-keila-kk-jahib-kodusaalis-taltechalexela-
+ skalpi#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?
+ gid=2027212103\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261031T124359Z
 LOCATION:Keila Tervisekeskus
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120621516/tana-delfi-tv-s-keila-kk-jah
+ ib-kodusaalis-taltechalexela-skalpi#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -50,16 +52,18 @@ BEGIN:VEVENT
 SUMMARY:Bigbank/Kalev – Rīgas Zeļļi · Delfi TV
 DTSTART:20261031T160000Z
 DTEND:20261031T180000Z
-DTSTAMP:20261028T210446Z
+DTSTAMP:20261031T124359Z
 UID:estlat-2027212117@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2117\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261028T210446Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120621515/tana-delfi-tv-s-bigbankkalev-kohtub-ponevusmangus-riia-ze
+ lliga#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?g
+ id=2027212117\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261031T124359Z
 LOCATION:Nord Spordihoone
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120621515/tana-delfi-tv-s-bigbankkalev
+ -kohtub-ponevusmangus-riia-zelliga#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
