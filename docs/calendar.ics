@@ -74,16 +74,18 @@ BEGIN:VEVENT
 SUMMARY:BC Pärnu – Valmiera Glass VIA · Delfi TV
 DTSTART:20261101T120000Z
 DTEND:20261101T140000Z
-DTSTAMP:20261028T210446Z
+DTSTAMP:20261101T175744Z
 UID:estlat-2027212046@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2046\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261028T210446Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120621630/tana-delfi-tv-s-bc-parnu-voorustab-parastlounal-valitseva
+ t-meistrit#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-cen
+ ter?gid=2027212046\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261101T175744Z
 LOCATION:Pärnu Spordihall
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120621630/tana-delfi-tv-s-bc-parnu-voo
+ rustab-parastlounal-valitsevat-meistrit#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
