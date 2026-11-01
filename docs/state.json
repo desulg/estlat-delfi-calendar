@@ -1,16 +1,4 @@
 {
-  "2027212046": {
-    "gid": "2027212046",
-    "home": "BC Pärnu",
-    "away": "Valmiera Glass VIA",
-    "start": "2026-11-01T12:00:00+00:00",
-    "arena": "Pärnu Spordihall",
-    "url": "https://sport.delfi.ee/artikkel/120621630/tana-delfi-tv-s-bc-parnu-voorustab-parastlounal-valitsevat-meistrit#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-01T17:57:44.141485+00:00",
-    "fingerprint": "dd2f07e73f62132644f722cff816aba134a20bb60f1241977514ba89c1156f14"
-  },
   "2027212047": {
     "gid": "2027212047",
     "home": "BC Pärnu",
@@ -46,6 +34,18 @@
     "sequence": 0,
     "updated": "2026-10-28T21:04:46.876737+00:00",
     "fingerprint": "c43a292d84ca18d5a3209468338ce64ddd2426abdb27288d4a024558c53b5b0e"
+  },
+  "2027212046": {
+    "gid": "2027212046",
+    "home": "BC Pärnu",
+    "away": "Valmiera Glass VIA",
+    "start": "2026-11-01T12:00:00+00:00",
+    "arena": "Pärnu Spordihall",
+    "url": "https://sport.delfi.ee/artikkel/120621630/tana-delfi-tv-s-bc-parnu-voorustab-parastlounal-valitsevat-meistrit#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-01T17:57:44.141485+00:00",
+    "fingerprint": "dd2f07e73f62132644f722cff816aba134a20bb60f1241977514ba89c1156f14"
   },
   "2027212103": {
     "gid": "2027212103",
