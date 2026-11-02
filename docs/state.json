@@ -1,4 +1,40 @@
 {
+  "2027212187": {
+    "gid": "2027212187",
+    "home": "BK Liepaja",
+    "away": "Keila Basket",
+    "start": "2026-11-04T17:00:00+00:00",
+    "arena": "Liepajas Olimpiskais centrs",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-02T21:45:59.838057+00:00",
+    "fingerprint": "c1da8969f8ce891d0479444f9b0cf5eefbe232a1569eeb03e930613679376ee5"
+  },
+  "2027212144": {
+    "gid": "2027212144",
+    "home": "Rigas Ekselences Juniori",
+    "away": "Keila KK",
+    "start": "2026-11-05T17:00:00+00:00",
+    "arena": "Komandas Sporta Spelu Halle",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-02T21:45:59.838057+00:00",
+    "fingerprint": "02d82bcb6ce2406a64e80b61b2b0a69e3ab60a819d92c6f42db241b3f587bb87"
+  },
+  "2027212089": {
+    "gid": "2027212089",
+    "home": "BK Ogre",
+    "away": "Bigbank/Kalev",
+    "start": "2026-11-07T14:00:00+00:00",
+    "arena": "Sporta arena Ogre",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-02T21:45:59.838057+00:00",
+    "fingerprint": "f3b39b615d2bf3e11bc414d02b72b9b79bb8e0edb69b07975818b380dfd10115"
+  },
   "2027212047": {
     "gid": "2027212047",
     "home": "BC Pärnu",
@@ -22,6 +58,18 @@
     "sequence": 0,
     "updated": "2026-10-28T21:04:46.876737+00:00",
     "fingerprint": "012fd1f66b3d638b14aeef77c64554b838f86ca86ebb0692b1ea2f00cb7b6e9f"
+  },
+  "2027212701": {
+    "gid": "2027212701",
+    "home": "Rīgas Zeļļi",
+    "away": "TalTech/ALEXELA",
+    "start": "2026-11-07T17:00:00+00:00",
+    "arena": "Komandas Sporta Spelu Halle",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-02T21:45:59.838057+00:00",
+    "fingerprint": "cd2112f802e993fc2e27f3fd9e920b9a7558c3ca3b199c8846efabcd08fdce0e"
   },
   "2027212061": {
     "gid": "2027212061",

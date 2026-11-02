@@ -93,6 +93,66 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BK Liepaja – Keila Basket · Delfi TV
+DTSTART:20261104T170000Z
+DTEND:20261104T190000Z
+DTSTAMP:20261102T214559Z
+UID:estlat-2027212187@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2187\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261102T214559Z
+LOCATION:Liepajas Olimpiskais centrs
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rigas Ekselences Juniori – Keila KK · Delfi TV
+DTSTART:20261105T170000Z
+DTEND:20261105T190000Z
+DTSTAMP:20261102T214559Z
+UID:estlat-2027212144@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2144\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261102T214559Z
+LOCATION:Komandas Sporta Spelu Halle
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BK Ogre – Bigbank/Kalev · Delfi TV
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+DTSTAMP:20261102T214559Z
+UID:estlat-2027212089@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2089\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261102T214559Z
+LOCATION:Sporta arena Ogre
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BC Pärnu – BK Ventspils · Delfi TV
 DTSTART:20261107T150000Z
 DTEND:20261107T170000Z
@@ -124,6 +184,26 @@ DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
  2018\nLõppaeg on hinnanguline (2 tundi).
 LAST-MODIFIED:20261028T210446Z
 LOCATION:Tartu\, TÜ sph (Kullami peaväljak)
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rīgas Zeļļi – TalTech/ALEXELA · Delfi TV
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+DTSTAMP:20261102T214559Z
+UID:estlat-2027212701@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2701\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261102T214559Z
+LOCATION:Komandas Sporta Spelu Halle
 STATUS:CONFIRMED
 URL:https://tv.delfi.ee/leht/ulekanded-kava/
 BEGIN:VALARM
