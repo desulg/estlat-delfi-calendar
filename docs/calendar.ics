@@ -96,16 +96,18 @@ BEGIN:VEVENT
 SUMMARY:BK Liepaja – Keila Basket · Delfi TV
 DTSTART:20261104T170000Z
 DTEND:20261104T190000Z
-DTSTAMP:20261102T214559Z
+DTSTAMP:20261104T195143Z
 UID:estlat-2027212187@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2187\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261102T214559Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120622306/tana-delfi-tv-s-kas-keila-basket-suudab-liepajas-voiduarv
+ e-avada#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center
+ ?gid=2027212187\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261104T195143Z
 LOCATION:Liepajas Olimpiskais centrs
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120622306/tana-delfi-tv-s-kas-keila-ba
+ sket-suudab-liepajas-voiduarve-avada#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
