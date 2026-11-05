@@ -1,27 +1,15 @@
 {
-  "2027212187": {
-    "gid": "2027212187",
-    "home": "BK Liepaja",
-    "away": "Keila Basket",
-    "start": "2026-11-04T17:00:00+00:00",
-    "arena": "Liepajas Olimpiskais centrs",
-    "url": "https://sport.delfi.ee/artikkel/120622306/tana-delfi-tv-s-kas-keila-basket-suudab-liepajas-voiduarve-avada#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-04T19:51:43.609221+00:00",
-    "fingerprint": "7f308a3e48b86159eb52a96df80afd6ba8d16ac5337c13cfdd4b128641d14708"
-  },
   "2027212144": {
     "gid": "2027212144",
     "home": "Rigas Ekselences Juniori",
     "away": "Keila KK",
     "start": "2026-11-05T17:00:00+00:00",
     "arena": "Komandas Sporta Spelu Halle",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120622556/tana-delfi-tv-s-keila-kk-soidab-rivaliteedinadala-raames-riiga#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-11-02T21:45:59.838057+00:00",
-    "fingerprint": "02d82bcb6ce2406a64e80b61b2b0a69e3ab60a819d92c6f42db241b3f587bb87"
+    "sequence": 1,
+    "updated": "2026-11-05T06:58:13.017479+00:00",
+    "fingerprint": "029fbae515140cd909e61b6873d3af93e83750f96764d6fd31eef81f8deb5fd6"
   },
   "2027212089": {
     "gid": "2027212089",
@@ -82,6 +70,18 @@
     "sequence": 0,
     "updated": "2026-10-28T21:04:46.876737+00:00",
     "fingerprint": "c43a292d84ca18d5a3209468338ce64ddd2426abdb27288d4a024558c53b5b0e"
+  },
+  "2027212187": {
+    "gid": "2027212187",
+    "home": "BK Liepaja",
+    "away": "Keila Basket",
+    "start": "2026-11-04T17:00:00+00:00",
+    "arena": "Liepajas Olimpiskais centrs",
+    "url": "https://sport.delfi.ee/artikkel/120622306/tana-delfi-tv-s-kas-keila-basket-suudab-liepajas-voiduarve-avada#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-04T19:51:43.609221+00:00",
+    "fingerprint": "7f308a3e48b86159eb52a96df80afd6ba8d16ac5337c13cfdd4b128641d14708"
   },
   "2027212046": {
     "gid": "2027212046",

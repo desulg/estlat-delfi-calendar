@@ -118,16 +118,18 @@ BEGIN:VEVENT
 SUMMARY:Rigas Ekselences Juniori – Keila KK · Delfi TV
 DTSTART:20261105T170000Z
 DTEND:20261105T190000Z
-DTSTAMP:20261102T214559Z
+DTSTAMP:20261105T065813Z
 UID:estlat-2027212144@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2144\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261102T214559Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120622556/tana-delfi-tv-s-keila-kk-soidab-rivaliteedinadala-raames-
+ riiga#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?g
+ id=2027212144\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261105T065813Z
 LOCATION:Komandas Sporta Spelu Halle
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120622556/tana-delfi-tv-s-keila-kk-soi
+ dab-rivaliteedinadala-raames-riiga#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
