@@ -140,16 +140,18 @@ BEGIN:VEVENT
 SUMMARY:BK Ogre – Bigbank/Kalev · Delfi TV
 DTSTART:20261107T140000Z
 DTEND:20261107T160000Z
-DTSTAMP:20261102T214559Z
+DTSTAMP:20261107T131429Z
 UID:estlat-2027212089@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2089\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261102T214559Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120623066/tana-delfi-tv-s-bigbankkalev-jahib-voorsil-voitu-bk-ogre-
+ ule#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?gid
+ =2027212089\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261107T131429Z
 LOCATION:Sporta arena Ogre
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120623066/tana-delfi-tv-s-bigbankkalev
+ -jahib-voorsil-voitu-bk-ogre-ule#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -160,16 +162,18 @@ BEGIN:VEVENT
 SUMMARY:BC Pärnu – BK Ventspils · Delfi TV
 DTSTART:20261107T150000Z
 DTEND:20261107T170000Z
-DTSTAMP:20261028T210446Z
+DTSTAMP:20261107T131429Z
 UID:estlat-2027212047@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2047\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261028T210446Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120623067/tana-delfi-tv-s-kas-parnu-pikendab-kodus-ventspilsi-vastu
+ -voiduseeriat#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-
+ center?gid=2027212047\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261107T131429Z
 LOCATION:Pärnu Spordihall
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120623067/tana-delfi-tv-s-kas-parnu-pi
+ kendab-kodus-ventspilsi-vastu-voiduseeriat#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -180,16 +184,20 @@ BEGIN:VEVENT
 SUMMARY:Tartu Ülikool Maks & Moorits – Valmiera Glass VIA · Delfi TV
 DTSTART:20261107T160000Z
 DTEND:20261107T180000Z
-DTSTAMP:20261028T210446Z
+DTSTAMP:20261107T131429Z
 UID:estlat-2027212018@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2018\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261028T210446Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120623069/tana-delfi-tv-s-finaali-kordusetendus-tartu-ulikool-votab
+ -kodus-vastu-tiitlikaitsja-valmiera#dalblokk-ulekanded\nLiiga: https://www
+ .estlatbl.com/en/game-center?gid=2027212018\nLõppaeg on hinnanguline (2 t
+ undi).
+LAST-MODIFIED:20261107T131429Z
 LOCATION:Tartu\, TÜ sph (Kullami peaväljak)
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120623069/tana-delfi-tv-s-finaali-kord
+ usetendus-tartu-ulikool-votab-kodus-vastu-tiitlikaitsja-valmiera#dalblokk-
+ ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -200,16 +208,18 @@ BEGIN:VEVENT
 SUMMARY:Rīgas Zeļļi – TalTech/ALEXELA · Delfi TV
 DTSTART:20261107T170000Z
 DTEND:20261107T190000Z
-DTSTAMP:20261102T214559Z
+DTSTAMP:20261107T131429Z
 UID:estlat-2027212701@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2701\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261102T214559Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120623072/tana-delfi-tv-s-kuidas-laheb-taltechalexelal-voorsil-liid
+ ri-riia-zelli-vastu#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en
+ /game-center?gid=2027212701\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261107T131429Z
 LOCATION:Komandas Sporta Spelu Halle
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120623072/tana-delfi-tv-s-kuidas-laheb
+ -taltechalexelal-voorsil-liidri-riia-zelli-vastu#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
