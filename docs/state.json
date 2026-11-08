@@ -1,4 +1,16 @@
 {
+  "2027212061": {
+    "gid": "2027212061",
+    "home": "Viimsi",
+    "away": "VEF Rīga",
+    "start": "2026-11-08T15:00:00+00:00",
+    "arena": "Forus Spordikeskus Viimsi",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-10-28T21:04:46.876737+00:00",
+    "fingerprint": "c43a292d84ca18d5a3209468338ce64ddd2426abdb27288d4a024558c53b5b0e"
+  },
   "2027212089": {
     "gid": "2027212089",
     "home": "BK Ogre",
@@ -46,18 +58,6 @@
     "sequence": 1,
     "updated": "2026-11-07T13:14:29.474868+00:00",
     "fingerprint": "af9038b89bc48035307e19e911bdfef6a5818096d917ebca247d8aaef67c961e"
-  },
-  "2027212061": {
-    "gid": "2027212061",
-    "home": "Viimsi",
-    "away": "VEF Rīga",
-    "start": "2026-11-08T15:00:00+00:00",
-    "arena": "Forus Spordikeskus Viimsi",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
-    "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-10-28T21:04:46.876737+00:00",
-    "fingerprint": "c43a292d84ca18d5a3209468338ce64ddd2426abdb27288d4a024558c53b5b0e"
   },
   "2027212144": {
     "gid": "2027212144",
