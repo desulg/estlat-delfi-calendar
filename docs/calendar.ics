@@ -230,14 +230,58 @@ BEGIN:VEVENT
 SUMMARY:Viimsi – VEF Rīga · Delfi TV
 DTSTART:20261108T150000Z
 DTEND:20261108T170000Z
-DTSTAMP:20261028T210446Z
+DTSTAMP:20261108T133843Z
 UID:estlat-2027212061@estlat-delfi-calendar
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120623165/tana-delfi-tv-s-viimsi-proovib-hammustada-suurt-tukki-kod
+ uvaljakul-tuleb-vastu-riia-vef#dalblokk-ulekanded\nLiiga: https://www.estl
+ atbl.com/en/game-center?gid=2027212061\nLõppaeg on hinnanguline (2 tundi)
+ .
+LAST-MODIFIED:20261108T133843Z
+LOCATION:Forus Spordikeskus Viimsi
+STATUS:CONFIRMED
+URL:https://sport.delfi.ee/artikkel/120623165/tana-delfi-tv-s-viimsi-proov
+ ib-hammustada-suurt-tukki-koduvaljakul-tuleb-vastu-riia-vef#dalblokk-uleka
+ nded
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BC Pärnu – Tartu Ülikool Maks & Moorits · Delfi TV
+DTSTART:20261115T150000Z
+DTEND:20261115T170000Z
+DTSTAMP:20261108T133843Z
+UID:estlat-2027212048@estlat-delfi-calendar
 SEQUENCE:0
 DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
  ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2061\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261028T210446Z
-LOCATION:Forus Spordikeskus Viimsi
+ 2048\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261108T133843Z
+LOCATION:Pärnu Spordihall
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keila Basket – TalTech/ALEXELA · Delfi TV
+DTSTART:20261115T153000Z
+DTEND:20261115T173000Z
+DTSTAMP:20261108T133843Z
+UID:estlat-2027212033@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2033\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261108T133843Z
+LOCATION:Keila Tervisekeskus
 STATUS:CONFIRMED
 URL:https://tv.delfi.ee/leht/ulekanded-kava/
 BEGIN:VALARM
