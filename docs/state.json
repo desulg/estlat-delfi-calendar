@@ -1,16 +1,4 @@
 {
-  "2027212061": {
-    "gid": "2027212061",
-    "home": "Viimsi",
-    "away": "VEF Rīga",
-    "start": "2026-11-08T15:00:00+00:00",
-    "arena": "Forus Spordikeskus Viimsi",
-    "url": "https://sport.delfi.ee/artikkel/120623165/tana-delfi-tv-s-viimsi-proovib-hammustada-suurt-tukki-koduvaljakul-tuleb-vastu-riia-vef#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-08T13:38:43.109924+00:00",
-    "fingerprint": "1501f003f7be2b7a2b48989f4c4f0c9e2b7f15ac4163245359ac087533f2f5be"
-  },
   "2027212048": {
     "gid": "2027212048",
     "home": "BC Pärnu",
@@ -34,6 +22,18 @@
     "sequence": 0,
     "updated": "2026-11-08T13:38:43.109924+00:00",
     "fingerprint": "b8cda53f00b1eac5db9b310240084692cfd9e8c3f91d2e646056dc03f8a28b07"
+  },
+  "2027212061": {
+    "gid": "2027212061",
+    "home": "Viimsi",
+    "away": "VEF Rīga",
+    "start": "2026-11-08T15:00:00+00:00",
+    "arena": "Forus Spordikeskus Viimsi",
+    "url": "https://sport.delfi.ee/artikkel/120623165/tana-delfi-tv-s-viimsi-proovib-hammustada-suurt-tukki-koduvaljakul-tuleb-vastu-riia-vef#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-08T13:38:43.109924+00:00",
+    "fingerprint": "1501f003f7be2b7a2b48989f4c4f0c9e2b7f15ac4163245359ac087533f2f5be"
   },
   "2027212089": {
     "gid": "2027212089",
