@@ -35,6 +35,30 @@
     "updated": "2026-11-08T13:38:43.109924+00:00",
     "fingerprint": "b8cda53f00b1eac5db9b310240084692cfd9e8c3f91d2e646056dc03f8a28b07"
   },
+  "2027212005": {
+    "gid": "2027212005",
+    "home": "TalTech/ALEXELA",
+    "away": "BK Ventspils",
+    "start": "2026-11-18T16:30:00+00:00",
+    "arena": "Tallinn, TalTech Spordihoone",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-12T20:03:38.525149+00:00",
+    "fingerprint": "06b29e87c2b54c322894a6fb56c5477fa9ca11d5cf214e7f69aca6f26940af40"
+  },
+  "2027212104": {
+    "gid": "2027212104",
+    "home": "Keila KK",
+    "away": "Latvijas Universitāte",
+    "start": "2026-11-21T16:00:00+00:00",
+    "arena": "Keila Tervisekeskus",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-12T20:03:38.525149+00:00",
+    "fingerprint": "a2cf6ef16b7450fd9427a0999f6cc0a8dfb923988022a9dc5af0ed095361a333"
+  },
   "2027212061": {
     "gid": "2027212061",
     "home": "Viimsi",

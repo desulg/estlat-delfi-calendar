@@ -310,4 +310,44 @@ DESCRIPTION:EstLat mäng algab 15 minuti pärast
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TalTech/ALEXELA – BK Ventspils · Delfi TV
+DTSTART:20261118T163000Z
+DTEND:20261118T183000Z
+DTSTAMP:20261112T200338Z
+UID:estlat-2027212005@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2005\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261112T200338Z
+LOCATION:Tallinn\, TalTech Spordihoone
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keila KK – Latvijas Universitāte · Delfi TV
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
+DTSTAMP:20261112T200338Z
+UID:estlat-2027212104@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2104\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261112T200338Z
+LOCATION:Keila Tervisekeskus
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
