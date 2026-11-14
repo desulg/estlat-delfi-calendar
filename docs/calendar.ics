@@ -254,16 +254,18 @@ BEGIN:VEVENT
 SUMMARY:Bigbank/Kalev – Latvijas Universitāte · Delfi TV
 DTSTART:20261114T160000Z
 DTEND:20261114T180000Z
-DTSTAMP:20261109T222854Z
+DTSTAMP:20261114T181407Z
 UID:estlat-2027212125@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2125\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261109T222854Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120624733/tana-delfi-tv-s-bigbankkalev-jahib-lati-ulikooli-vastu-ko
+ hustuslikku-voitu#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/g
+ ame-center?gid=2027212125\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261114T181407Z
 LOCATION:Nord Spordihoone
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120624733/tana-delfi-tv-s-bigbankkalev
+ -jahib-lati-ulikooli-vastu-kohustuslikku-voitu#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
