@@ -1,16 +1,4 @@
 {
-  "2027212125": {
-    "gid": "2027212125",
-    "home": "Bigbank/Kalev",
-    "away": "Latvijas Universitāte",
-    "start": "2026-11-14T16:00:00+00:00",
-    "arena": "Nord Spordihoone",
-    "url": "https://sport.delfi.ee/artikkel/120624733/tana-delfi-tv-s-bigbankkalev-jahib-lati-ulikooli-vastu-kohustuslikku-voitu#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-14T18:14:07.830472+00:00",
-    "fingerprint": "4a22d017bfd122ff5523f1915c6f54840fa860c149384807988e72d580028661"
-  },
   "2027212048": {
     "gid": "2027212048",
     "home": "BC Pärnu",
@@ -58,6 +46,18 @@
     "sequence": 0,
     "updated": "2026-11-12T20:03:38.525149+00:00",
     "fingerprint": "a2cf6ef16b7450fd9427a0999f6cc0a8dfb923988022a9dc5af0ed095361a333"
+  },
+  "2027212125": {
+    "gid": "2027212125",
+    "home": "Bigbank/Kalev",
+    "away": "Latvijas Universitāte",
+    "start": "2026-11-14T16:00:00+00:00",
+    "arena": "Nord Spordihoone",
+    "url": "https://sport.delfi.ee/artikkel/120624733/tana-delfi-tv-s-bigbankkalev-jahib-lati-ulikooli-vastu-kohustuslikku-voitu#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-14T18:14:07.830472+00:00",
+    "fingerprint": "4a22d017bfd122ff5523f1915c6f54840fa860c149384807988e72d580028661"
   },
   "2027212061": {
     "gid": "2027212061",
