@@ -5,11 +5,11 @@
     "away": "Tartu Ülikool Maks & Moorits",
     "start": "2026-11-15T15:00:00+00:00",
     "arena": "Pärnu Spordihall",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120624869/tana-delfi-tv-s-bc-parnu-votab-kodus-mootu-tartu-ulikooliga#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-11-08T13:38:43.109924+00:00",
-    "fingerprint": "2c1c430211c2bcd6e89bb51affe3aaeacaa0f228d9cb19d4ae2268fa3afc4414"
+    "sequence": 1,
+    "updated": "2026-11-15T18:56:54.127089+00:00",
+    "fingerprint": "44570c88f9413d92c707495dcfc0e6e39876c3576fcee47f1a3f2a17f8ddfee0"
   },
   "2027212033": {
     "gid": "2027212033",
@@ -17,11 +17,11 @@
     "away": "TalTech/ALEXELA",
     "start": "2026-11-15T15:30:00+00:00",
     "arena": "Keila Tervisekeskus",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120624870/tana-delfi-tv-s-esimest-voitu-jahtiv-keila-basket-laheb-kodus-vastamisi-taltechalexelaga#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-11-08T13:38:43.109924+00:00",
-    "fingerprint": "b8cda53f00b1eac5db9b310240084692cfd9e8c3f91d2e646056dc03f8a28b07"
+    "sequence": 1,
+    "updated": "2026-11-15T18:56:54.127089+00:00",
+    "fingerprint": "d311fe65140d269cb48c184b134cf6cb4eef73619d84e0b52e67b64d4edddf27"
   },
   "2027212005": {
     "gid": "2027212005",

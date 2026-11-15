@@ -276,16 +276,18 @@ BEGIN:VEVENT
 SUMMARY:BC Pärnu – Tartu Ülikool Maks & Moorits · Delfi TV
 DTSTART:20261115T150000Z
 DTEND:20261115T170000Z
-DTSTAMP:20261108T133843Z
+DTSTAMP:20261115T185654Z
 UID:estlat-2027212048@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2048\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261108T133843Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120624869/tana-delfi-tv-s-bc-parnu-votab-kodus-mootu-tartu-ulikooli
+ ga#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?gid=
+ 2027212048\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261115T185654Z
 LOCATION:Pärnu Spordihall
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120624869/tana-delfi-tv-s-bc-parnu-vot
+ ab-kodus-mootu-tartu-ulikooliga#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -296,16 +298,20 @@ BEGIN:VEVENT
 SUMMARY:Keila Basket – TalTech/ALEXELA · Delfi TV
 DTSTART:20261115T153000Z
 DTEND:20261115T173000Z
-DTSTAMP:20261108T133843Z
+DTSTAMP:20261115T185654Z
 UID:estlat-2027212033@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2033\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261108T133843Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120624870/tana-delfi-tv-s-esimest-voitu-jahtiv-keila-basket-laheb-k
+ odus-vastamisi-taltechalexelaga#dalblokk-ulekanded\nLiiga: https://www.est
+ latbl.com/en/game-center?gid=2027212033\nLõppaeg on hinnanguline (2 tundi
+ ).
+LAST-MODIFIED:20261115T185654Z
 LOCATION:Keila Tervisekeskus
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120624870/tana-delfi-tv-s-esimest-voit
+ u-jahtiv-keila-basket-laheb-kodus-vastamisi-taltechalexelaga#dalblokk-ulek
+ anded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
