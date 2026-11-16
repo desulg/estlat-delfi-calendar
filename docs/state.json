@@ -1,28 +1,4 @@
 {
-  "2027212048": {
-    "gid": "2027212048",
-    "home": "BC Pärnu",
-    "away": "Tartu Ülikool Maks & Moorits",
-    "start": "2026-11-15T15:00:00+00:00",
-    "arena": "Pärnu Spordihall",
-    "url": "https://sport.delfi.ee/artikkel/120624869/tana-delfi-tv-s-bc-parnu-votab-kodus-mootu-tartu-ulikooliga#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-15T18:56:54.127089+00:00",
-    "fingerprint": "44570c88f9413d92c707495dcfc0e6e39876c3576fcee47f1a3f2a17f8ddfee0"
-  },
-  "2027212033": {
-    "gid": "2027212033",
-    "home": "Keila Basket",
-    "away": "TalTech/ALEXELA",
-    "start": "2026-11-15T15:30:00+00:00",
-    "arena": "Keila Tervisekeskus",
-    "url": "https://sport.delfi.ee/artikkel/120624870/tana-delfi-tv-s-esimest-voitu-jahtiv-keila-basket-laheb-kodus-vastamisi-taltechalexelaga#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-15T18:56:54.127089+00:00",
-    "fingerprint": "d311fe65140d269cb48c184b134cf6cb4eef73619d84e0b52e67b64d4edddf27"
-  },
   "2027212005": {
     "gid": "2027212005",
     "home": "TalTech/ALEXELA",
@@ -46,6 +22,30 @@
     "sequence": 0,
     "updated": "2026-11-12T20:03:38.525149+00:00",
     "fingerprint": "a2cf6ef16b7450fd9427a0999f6cc0a8dfb923988022a9dc5af0ed095361a333"
+  },
+  "2027212048": {
+    "gid": "2027212048",
+    "home": "BC Pärnu",
+    "away": "Tartu Ülikool Maks & Moorits",
+    "start": "2026-11-15T15:00:00+00:00",
+    "arena": "Pärnu Spordihall",
+    "url": "https://sport.delfi.ee/artikkel/120624869/tana-delfi-tv-s-bc-parnu-votab-kodus-mootu-tartu-ulikooliga#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-15T18:56:54.127089+00:00",
+    "fingerprint": "44570c88f9413d92c707495dcfc0e6e39876c3576fcee47f1a3f2a17f8ddfee0"
+  },
+  "2027212033": {
+    "gid": "2027212033",
+    "home": "Keila Basket",
+    "away": "TalTech/ALEXELA",
+    "start": "2026-11-15T15:30:00+00:00",
+    "arena": "Keila Tervisekeskus",
+    "url": "https://sport.delfi.ee/artikkel/120624870/tana-delfi-tv-s-esimest-voitu-jahtiv-keila-basket-laheb-kodus-vastamisi-taltechalexelaga#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-15T18:56:54.127089+00:00",
+    "fingerprint": "d311fe65140d269cb48c184b134cf6cb4eef73619d84e0b52e67b64d4edddf27"
   },
   "2027212125": {
     "gid": "2027212125",
