@@ -23,6 +23,18 @@
     "updated": "2026-11-12T20:03:38.525149+00:00",
     "fingerprint": "a2cf6ef16b7450fd9427a0999f6cc0a8dfb923988022a9dc5af0ed095361a333"
   },
+  "2027212019": {
+    "gid": "2027212019",
+    "home": "Tartu Ülikool Maks & Moorits",
+    "away": "BK Ogre",
+    "start": "2026-11-21T17:00:00+00:00",
+    "arena": "Tartu, TÜ sph (Kullami peaväljak)",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-17T21:02:09.249983+00:00",
+    "fingerprint": "50bd4d8a03248cb9775b7f17c4d5365cd7e5c43060d127637f7c173f8dde4c9e"
+  },
   "2027212048": {
     "gid": "2027212048",
     "home": "BC Pärnu",

@@ -358,4 +358,24 @@ DESCRIPTION:EstLat mäng algab 15 minuti pärast
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tartu Ülikool Maks & Moorits – BK Ogre · Delfi TV
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+DTSTAMP:20261117T210209Z
+UID:estlat-2027212019@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2019\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261117T210209Z
+LOCATION:Tartu\, TÜ sph (Kullami peaväljak)
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
