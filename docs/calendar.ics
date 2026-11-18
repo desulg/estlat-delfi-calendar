@@ -322,16 +322,18 @@ BEGIN:VEVENT
 SUMMARY:TalTech/ALEXELA – BK Ventspils · Delfi TV
 DTSTART:20261118T163000Z
 DTEND:20261118T183000Z
-DTSTAMP:20261112T200338Z
+DTSTAMP:20261118T203929Z
 UID:estlat-2027212005@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2005\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261112T200338Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120625661/tana-delfi-tv-s-taltechalexela-voorustab-tabelinaabrit-ve
+ ntspilsi#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-cente
+ r?gid=2027212005\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261118T203929Z
 LOCATION:Tallinn\, TalTech Spordihoone
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120625661/tana-delfi-tv-s-taltechalexe
+ la-voorustab-tabelinaabrit-ventspilsi#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
