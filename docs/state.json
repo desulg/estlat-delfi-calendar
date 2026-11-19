@@ -1,16 +1,4 @@
 {
-  "2027212005": {
-    "gid": "2027212005",
-    "home": "TalTech/ALEXELA",
-    "away": "BK Ventspils",
-    "start": "2026-11-18T16:30:00+00:00",
-    "arena": "Tallinn, TalTech Spordihoone",
-    "url": "https://sport.delfi.ee/artikkel/120625661/tana-delfi-tv-s-taltechalexela-voorustab-tabelinaabrit-ventspilsi#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-18T20:39:29.264581+00:00",
-    "fingerprint": "9cabb0a55afaa7bd2f904fa71819705716711e22451fddacaafd561efe65bb87"
-  },
   "2027212104": {
     "gid": "2027212104",
     "home": "Keila KK",
@@ -34,6 +22,18 @@
     "sequence": 0,
     "updated": "2026-11-17T21:02:09.249983+00:00",
     "fingerprint": "50bd4d8a03248cb9775b7f17c4d5365cd7e5c43060d127637f7c173f8dde4c9e"
+  },
+  "2027212005": {
+    "gid": "2027212005",
+    "home": "TalTech/ALEXELA",
+    "away": "BK Ventspils",
+    "start": "2026-11-18T16:30:00+00:00",
+    "arena": "Tallinn, TalTech Spordihoone",
+    "url": "https://sport.delfi.ee/artikkel/120625661/tana-delfi-tv-s-taltechalexela-voorustab-tabelinaabrit-ventspilsi#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-18T20:39:29.264581+00:00",
+    "fingerprint": "9cabb0a55afaa7bd2f904fa71819705716711e22451fddacaafd561efe65bb87"
   },
   "2027212048": {
     "gid": "2027212048",
