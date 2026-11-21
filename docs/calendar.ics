@@ -344,16 +344,20 @@ BEGIN:VEVENT
 SUMMARY:Keila KK – Latvijas Universitāte · Delfi TV
 DTSTART:20261121T160000Z
 DTEND:20261121T180000Z
-DTSTAMP:20261112T200338Z
+DTSTAMP:20261121T192507Z
 UID:estlat-2027212104@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2104\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261112T200338Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120626408/tana-delfi-tv-s-kas-play-off-i-kohale-tousnud-keila-kk-pi
+ kendab-eesti-lati-liigas-voiduseeriat#dalblokk-ulekanded\nLiiga: https://w
+ ww.estlatbl.com/en/game-center?gid=2027212104\nLõppaeg on hinnanguline (2
+  tundi).
+LAST-MODIFIED:20261121T192507Z
 LOCATION:Keila Tervisekeskus
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120626408/tana-delfi-tv-s-kas-play-off
+ -i-kohale-tousnud-keila-kk-pikendab-eesti-lati-liigas-voiduseeriat#dalblok
+ k-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -364,14 +368,96 @@ BEGIN:VEVENT
 SUMMARY:Tartu Ülikool Maks & Moorits – BK Ogre · Delfi TV
 DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
-DTSTAMP:20261117T210209Z
+DTSTAMP:20261121T192507Z
 UID:estlat-2027212019@estlat-delfi-calendar
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120626416/tana-delfi-tv-s-tartu-ulikool-jahib-kodus-bk-ogre-skalpi#
+ dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?gid=202
+ 7212019\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261121T192507Z
+LOCATION:Tartu\, TÜ sph (Kullami peaväljak)
+STATUS:CONFIRMED
+URL:https://sport.delfi.ee/artikkel/120626416/tana-delfi-tv-s-tartu-ulikoo
+ l-jahib-kodus-bk-ogre-skalpi#dalblokk-ulekanded
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viimsi – BK Liepaja · Delfi TV
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
+DTSTAMP:20261121T192507Z
+UID:estlat-2027212062@estlat-delfi-calendar
 SEQUENCE:0
 DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
  ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2019\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261117T210209Z
+ 2062\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261121T192507Z
+LOCATION:Forus Spordikeskus Viimsi
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keila Basket – BC Pärnu · Delfi TV
+DTSTART:20261122T153000Z
+DTEND:20261122T173000Z
+DTSTAMP:20261121T192507Z
+UID:estlat-2027212034@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2034\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261121T192507Z
+LOCATION:Keila Tervisekeskus
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tartu Ülikool Maks & Moorits – Keila Basket · Delfi TV
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+DTSTAMP:20261121T192507Z
+UID:estlat-2027212020@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2020\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261121T192507Z
 LOCATION:Tartu\, TÜ sph (Kullami peaväljak)
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keila KK – Bigbank/Kalev · Delfi TV
+DTSTART:20261202T173000Z
+DTEND:20261202T193000Z
+DTSTAMP:20261121T192507Z
+UID:estlat-2027212105@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2105\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261121T192507Z
+LOCATION:Keila Tervisekeskus
 STATUS:CONFIRMED
 URL:https://tv.delfi.ee/leht/ulekanded-kava/
 BEGIN:VALARM
