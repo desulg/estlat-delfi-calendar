@@ -1,28 +1,4 @@
 {
-  "2027212104": {
-    "gid": "2027212104",
-    "home": "Keila KK",
-    "away": "Latvijas Universitāte",
-    "start": "2026-11-21T16:00:00+00:00",
-    "arena": "Keila Tervisekeskus",
-    "url": "https://sport.delfi.ee/artikkel/120626408/tana-delfi-tv-s-kas-play-off-i-kohale-tousnud-keila-kk-pikendab-eesti-lati-liigas-voiduseeriat#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-21T19:25:07.483483+00:00",
-    "fingerprint": "64d6b1b5d16c51892592d609655bebe57515b48e1d8c9c6f80d583408485fcb2"
-  },
-  "2027212019": {
-    "gid": "2027212019",
-    "home": "Tartu Ülikool Maks & Moorits",
-    "away": "BK Ogre",
-    "start": "2026-11-21T17:00:00+00:00",
-    "arena": "Tartu, TÜ sph (Kullami peaväljak)",
-    "url": "https://sport.delfi.ee/artikkel/120626416/tana-delfi-tv-s-tartu-ulikool-jahib-kodus-bk-ogre-skalpi#dalblokk-ulekanded",
-    "status": "CONFIRMED",
-    "sequence": 1,
-    "updated": "2026-11-21T19:25:07.483483+00:00",
-    "fingerprint": "d6b406b7177f7a59a53b358693051be1534d88c622ee41f1799585db40498d3c"
-  },
   "2027212062": {
     "gid": "2027212062",
     "home": "Viimsi",
@@ -70,6 +46,30 @@
     "sequence": 0,
     "updated": "2026-11-21T19:25:07.483483+00:00",
     "fingerprint": "66c0533903d11daf0e5fc8500b497b9d0d617b4c7cdb8e93e577b86959029a60"
+  },
+  "2027212104": {
+    "gid": "2027212104",
+    "home": "Keila KK",
+    "away": "Latvijas Universitāte",
+    "start": "2026-11-21T16:00:00+00:00",
+    "arena": "Keila Tervisekeskus",
+    "url": "https://sport.delfi.ee/artikkel/120626408/tana-delfi-tv-s-kas-play-off-i-kohale-tousnud-keila-kk-pikendab-eesti-lati-liigas-voiduseeriat#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-21T19:25:07.483483+00:00",
+    "fingerprint": "64d6b1b5d16c51892592d609655bebe57515b48e1d8c9c6f80d583408485fcb2"
+  },
+  "2027212019": {
+    "gid": "2027212019",
+    "home": "Tartu Ülikool Maks & Moorits",
+    "away": "BK Ogre",
+    "start": "2026-11-21T17:00:00+00:00",
+    "arena": "Tartu, TÜ sph (Kullami peaväljak)",
+    "url": "https://sport.delfi.ee/artikkel/120626416/tana-delfi-tv-s-tartu-ulikool-jahib-kodus-bk-ogre-skalpi#dalblokk-ulekanded",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "updated": "2026-11-21T19:25:07.483483+00:00",
+    "fingerprint": "d6b406b7177f7a59a53b358693051be1534d88c622ee41f1799585db40498d3c"
   },
   "2027212005": {
     "gid": "2027212005",
