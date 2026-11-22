@@ -390,16 +390,18 @@ BEGIN:VEVENT
 SUMMARY:Viimsi – BK Liepaja · Delfi TV
 DTSTART:20261122T150000Z
 DTEND:20261122T170000Z
-DTSTAMP:20261121T192507Z
+DTSTAMP:20261122T194835Z
 UID:estlat-2027212062@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2062\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261121T192507Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120626525/tana-delfi-tv-s-viimsi-votab-kodus-mootu-liepajaga#dalblo
+ kk-ulekanded\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721206
+ 2\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261122T194835Z
 LOCATION:Forus Spordikeskus Viimsi
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120626525/tana-delfi-tv-s-viimsi-votab
+ -kodus-mootu-liepajaga#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast
@@ -410,16 +412,18 @@ BEGIN:VEVENT
 SUMMARY:Keila Basket – BC Pärnu · Delfi TV
 DTSTART:20261122T153000Z
 DTEND:20261122T173000Z
-DTSTAMP:20261121T192507Z
+DTSTAMP:20261122T194835Z
 UID:estlat-2027212034@estlat-delfi-calendar
-SEQUENCE:0
-DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
- ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
- 2034\nLõppaeg on hinnanguline (2 tundi).
-LAST-MODIFIED:20261121T192507Z
+SEQUENCE:1
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://sport.delfi.ee/ar
+ tikkel/120626527/tana-delfi-tv-s-esimest-voitu-jahtiv-keila-basket-voorust
+ ab-kodus-bc-parnut#dalblokk-ulekanded\nLiiga: https://www.estlatbl.com/en/
+ game-center?gid=2027212034\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261122T194835Z
 LOCATION:Keila Tervisekeskus
 STATUS:CONFIRMED
-URL:https://tv.delfi.ee/leht/ulekanded-kava/
+URL:https://sport.delfi.ee/artikkel/120626527/tana-delfi-tv-s-esimest-voit
+ u-jahtiv-keila-basket-voorustab-kodus-bc-parnut#dalblokk-ulekanded
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EstLat mäng algab 15 minuti pärast

@@ -5,11 +5,11 @@
     "away": "BK Liepaja",
     "start": "2026-11-22T15:00:00+00:00",
     "arena": "Forus Spordikeskus Viimsi",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120626525/tana-delfi-tv-s-viimsi-votab-kodus-mootu-liepajaga#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-11-21T19:25:07.483483+00:00",
-    "fingerprint": "db938f5376195183ce030bc8ecaac2422a8a45dcad9c8d11984667c1be7dd286"
+    "sequence": 1,
+    "updated": "2026-11-22T19:48:35.118690+00:00",
+    "fingerprint": "6b0e4e1eb335b64d9a0f5c40bd0930cb59a33feeafdb03e033d99339804f73d7"
   },
   "2027212034": {
     "gid": "2027212034",
@@ -17,11 +17,11 @@
     "away": "BC Pärnu",
     "start": "2026-11-22T15:30:00+00:00",
     "arena": "Keila Tervisekeskus",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "url": "https://sport.delfi.ee/artikkel/120626527/tana-delfi-tv-s-esimest-voitu-jahtiv-keila-basket-voorustab-kodus-bc-parnut#dalblokk-ulekanded",
     "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-11-21T19:25:07.483483+00:00",
-    "fingerprint": "cd75bf18c98f49fef4b1cb4f9cf1aa35828190533d26d7c3c4bd11c4b2933258"
+    "sequence": 1,
+    "updated": "2026-11-22T19:48:35.118690+00:00",
+    "fingerprint": "937114ed7c7de4aadd1f3d128ea2e766b569d93ec322b406c1640ace9a357d02"
   },
   "2027212020": {
     "gid": "2027212020",
