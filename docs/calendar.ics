@@ -470,4 +470,84 @@ DESCRIPTION:EstLat mäng algab 15 minuti pärast
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bigbank/Kalev – BK Liepaja · Delfi TV
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+DTSTAMP:20261123T235956Z
+UID:estlat-2027212118@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2118\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261123T235956Z
+LOCATION:Nord Spordihoone
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viimsi – Tartu Ülikool Maks & Moorits · Delfi TV
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+DTSTAMP:20261123T235956Z
+UID:estlat-2027212063@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2063\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261123T235956Z
+LOCATION:Forus Spordikeskus Viimsi
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keila KK – BK Liepaja · Delfi TV
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+DTSTAMP:20261123T235956Z
+UID:estlat-2027212106@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2106\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261123T235956Z
+LOCATION:Keila Tervisekeskus
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TalTech/ALEXELA – BC Pärnu · Delfi TV
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+DTSTAMP:20261123T235956Z
+UID:estlat-2027212006@estlat-delfi-calendar
+SEQUENCE:0
+DESCRIPTION:EstLat League. Ülekanne: Delfi TV.\nhttps://tv.delfi.ee/leht/
+ ulekanded-kava/\nLiiga: https://www.estlatbl.com/en/game-center?gid=202721
+ 2006\nLõppaeg on hinnanguline (2 tundi).
+LAST-MODIFIED:20261123T235956Z
+LOCATION:Tallinn\, TalTech Spordihoone
+STATUS:CONFIRMED
+URL:https://tv.delfi.ee/leht/ulekanded-kava/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EstLat mäng algab 15 minuti pärast
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

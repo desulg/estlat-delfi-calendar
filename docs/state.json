@@ -23,6 +23,54 @@
     "updated": "2026-11-21T19:25:07.483483+00:00",
     "fingerprint": "66c0533903d11daf0e5fc8500b497b9d0d617b4c7cdb8e93e577b86959029a60"
   },
+  "2027212118": {
+    "gid": "2027212118",
+    "home": "Bigbank/Kalev",
+    "away": "BK Liepaja",
+    "start": "2026-12-05T16:00:00+00:00",
+    "arena": "Nord Spordihoone",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-23T23:59:56.197188+00:00",
+    "fingerprint": "2cbeceffe49794e54dcaa2a756775838da04cc0c26a95ee63f8b9241afd6ae8b"
+  },
+  "2027212063": {
+    "gid": "2027212063",
+    "home": "Viimsi",
+    "away": "Tartu Ülikool Maks & Moorits",
+    "start": "2026-12-06T15:00:00+00:00",
+    "arena": "Forus Spordikeskus Viimsi",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-23T23:59:56.197188+00:00",
+    "fingerprint": "8be0b6d5fb782f4c6402af6853035d6f3c6705d159376bea0a254ec2cec33185"
+  },
+  "2027212106": {
+    "gid": "2027212106",
+    "home": "Keila KK",
+    "away": "BK Liepaja",
+    "start": "2026-12-06T15:00:00+00:00",
+    "arena": "Keila Tervisekeskus",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-23T23:59:56.197188+00:00",
+    "fingerprint": "7857ba4c1ae7b6431c32b28b07ab873bc0f569c368b21e3372c96d7cb65f3759"
+  },
+  "2027212006": {
+    "gid": "2027212006",
+    "home": "TalTech/ALEXELA",
+    "away": "BC Pärnu",
+    "start": "2026-12-06T16:00:00+00:00",
+    "arena": "Tallinn, TalTech Spordihoone",
+    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "updated": "2026-11-23T23:59:56.197188+00:00",
+    "fingerprint": "7986be42017c07d88374c9c4f1221c41d52b3ae880c76b5b52d452fff16577c5"
+  },
   "2027212062": {
     "gid": "2027212062",
     "home": "Viimsi",
