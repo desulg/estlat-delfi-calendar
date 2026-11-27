@@ -286,17 +286,5 @@
     "sequence": 1,
     "updated": "2026-10-31T12:43:59.412521+00:00",
     "fingerprint": "9c0b96b912e63edc64acaba712745a7442d6c307b2d5ea052221bb3581c1f562"
-  },
-  "2027212004": {
-    "gid": "2027212004",
-    "home": "TalTech/ALEXELA",
-    "away": "Latvijas Universitāte",
-    "start": "2026-10-28T16:30:00+00:00",
-    "arena": "Tallinn, TalTech Spordihoone",
-    "url": "https://tv.delfi.ee/leht/ulekanded-kava/",
-    "status": "CONFIRMED",
-    "sequence": 0,
-    "updated": "2026-10-28T21:04:46.876737+00:00",
-    "fingerprint": "13a7ad6472b2cebf1b8b62f882a4c74b7c57336ba2ef3e87e7cbe3291525971b"
   }
 }
